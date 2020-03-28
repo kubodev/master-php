@@ -1,1 +1,3 @@
-Hola soy un archivo de texto
+Hola soy un archivo de texto,
+tengo más lineas
+del archivoSoy un texto metido desde phpSoy un texto metido desde phpSoy un texto metido desde phpSoy un texto metido desde phpSoy un texto metido desde php
